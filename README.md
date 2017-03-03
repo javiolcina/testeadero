@@ -1,4 +1,4 @@
 # testeadero
 Testeadero: testing engine
-# Classes básiques per fer funcionar el motor de testing
+Classes bàsiques per fer funcionar el motor de testing
 
